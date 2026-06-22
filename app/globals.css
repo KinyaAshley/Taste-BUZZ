@@ -1,15 +1,15 @@
 :root{
- --bg:#F4EEE0;
-  --surface:#FFFFFF;
-  --surface-soft:#E7E0CC;
-  --ink:#3B2F23;
-  --ink-soft:#8A7A63;
-  --coral:#6B4F3A;
-  --coral-dark:#54392A;
-  --sage:#5C7A52;
-  --sage-dark:#46603D;
-  --mustard:#B98B4E;
-  --line: rgba(59,47,35,0.12);
+ --bg:#94430d;
+  --surface:#b97969fc;
+  --surface-soft:#f4bba6;
+  --ink:#FFF8F2;
+  --ink-soft:#F2D5C4;
+  --coral:#FFF8F2;
+  --coral-dark:#F2D5C4;
+  --sage:#2D4A28;
+  --sage-dark:#1E3319;
+  --mustard:#F0C070;
+  --line: rgba(255,220,200,0.20);
 }
 *{box-sizing:border-box;}
 html,body{margin:0;padding:0;background:var(--bg);}
