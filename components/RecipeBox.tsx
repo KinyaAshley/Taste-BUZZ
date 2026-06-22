@@ -158,7 +158,7 @@ export default function RecipeBox() {
     <div className="app">
       <div className="wrap">
         <div className="header-inner">
-          <h1 className="brand">The Recipe <span>Box</span></h1>
+          <h1 className="brand">Taste <span>BUZZ</span></h1>
           <div className="auth-area">
             {isOwner ? (
               <>
